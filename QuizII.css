@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(153, 202, 149);
+}
+h1{
+    justify-content: center;
+    color:darkgreen;
+}
+p{
+    font-size: 18px;
+    color:green;
+}
+ul li{
+    font-weight: bold;
+}
+h2{
+    color:darkgreen;
+}
+img{
+    width: 800px;
+    height: 600x;
+    border: 3px solid darkgreen;
+}
+.evidencia1{
+    color: blueviolet;
+}
